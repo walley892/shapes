@@ -21,8 +21,8 @@ A "time-varying patch in ℝ<sup>3</sup>" is a function IxU-\>ℝ<sup>3</sup>, w
 2. Install [CUDA](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html) on your system
 3. 
 ```
-git clone https://github.com/walley892/grapher
-cd grapher
+git clone https://github.com/walley892/shapes
+cd shapes
 // possibly inside of a virtual environment if that's your thing
 pip3 install -r requrements.txt
 python3 shapes-application.py
